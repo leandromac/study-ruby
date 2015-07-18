@@ -1,0 +1,20 @@
+# Operadores Condicionais
+If
+Elsif
+Else
+Then
+Unless
+Case
+When
+
+; #delimitador de espaço
+== #equivalência lógica
+!= #diferente de
+>,< #maior que, menor que
+>= #maior ou igual a
+<= #menor ou igual a
+||, or #ou (lógico)
+!, not #não (lógico)
+&&, and #e (lógico)
+() #opicional
+?: #operadores ternários
