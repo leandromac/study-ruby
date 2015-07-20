@@ -1,0 +1,12 @@
+Loops and blocos
+
+for
+while
+loop
+until
+begin
+do
+break
+next
+redo
+return
